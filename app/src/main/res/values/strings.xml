@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BirthDay</string>
+    <string name="action_settings">Settings</string>
+    <string name="addBirthDayTitle">Add New BirthDay</string>
+    <string name="delete_birthdate">Delete</string>
+    <string name="update_birthdate">update</string>
+    <string name="updateButton">Update</string>
+</resources>
